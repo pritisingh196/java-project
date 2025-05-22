@@ -109,13 +109,5 @@ Feel free to use, modify, and distribute with proper credit.
 Made with ❤️ by [Priti Singh](https://github.com/pritisingh196)
 Got feedback? Drop a ⭐ and let's build better Java projects together!
 
----
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
-```
-
----
-
-Would you like this as a downloadable `.md` file or want to add project-specific GIFs/screenshots too?
-```
